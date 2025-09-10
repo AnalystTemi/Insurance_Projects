@@ -1,0 +1,1 @@
+•	In this project, I worked with a mock dataset simulating broker performance in an insurance brokerage. The dataset contained over 150 rows of data with intentionally introduced errors such as missing values, inconsistent date formats, duplicates, and outliers. The goal of this project was to clean, transform, and prepare the data for reliable reporting and dashboard creation.
